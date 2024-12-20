@@ -1,5 +1,5 @@
 # web-scrapping
-Some code that I wrote for fun and self-learning. It <br/> 
+Some code that I wrote for fun. It <br/> 
   * scrapes the NBER RA positions website (https://www.nber.org/career-resources/research-assistant-positions-not-nber), 
   * creates a .txt file saved to your computer
   * sends an email to your mailbox containing the 3 latest positing in case there is new positing
